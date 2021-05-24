@@ -6,8 +6,9 @@ sensor de temperatura del dispositivo
 ## Introducción
 
 Ejercicio desarrollado para la Ingeniería de Desarrollo de Software
-Asignatura: Desarrollo Movil II
-Entidad: Universidad Manuela Beltran UMB
+* Asignatura: Desarrollo Movil II
+* Entidad: Universidad Manuela Beltran UMB
+* 2020 - II
 
 ## Instalación y ejecución
 
